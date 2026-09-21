@@ -4,6 +4,8 @@ A small Python project I built as my final project for **CS50's Introduction to 
 
 The goal was to build a simple stock research tool that goes a bit further than just looking at a stock's price. The program downloads historical market data and uses it to calculate basic performance and risk measures.
 
+#The Youtube kink to see the presentation video: https://youtu.be/Ub_91Klzh7o
+
 ## What it does
 
 The user enters:
